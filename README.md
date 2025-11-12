@@ -66,6 +66,7 @@ git clone https://github.com/NurcholishAdam/Quantum-Limit-Graph-level4-GLM-Archi
 cd Quantum-Limit-Graph-level4-GLM-Architecture
 cargo build --release
 cargo run
+'''
 
 
 ### Example Use
@@ -75,6 +76,8 @@ let answer = glm_reasoning(question);
 println!("Answer: {}", answer);
 
 '''
+
+
 
 🤝 Contributing
 We welcome contributors! Please see CONTRIBUTING.md (coming soon) for onboarding instructions, coding style, and benchmarking guidelines.
