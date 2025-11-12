@@ -39,11 +39,16 @@ Each agent is implemented as a trait with composable logic. The Coordinator orch
 ---
 
 ## 📦 Repository Structure
-. ├── level4/ # Core multi-agent logic in Rust │ 
-  ├── agents/ # Agent trait definitions and implementations │ 
-  ├── cache/ # Vertex-centric KV-cache manager │ 
-  ├── retriever/ # Code-based graph retrieval engine │ 
-  ├── coordinator.rs # GLM reasoning loop and agent orchestration │ 
+. ├── level4/ # Core multi-agent logic in Rust 
+  │ 
+  ├── agents/ # Agent trait definitions and implementations 
+  │ 
+  ├── cache/ # Vertex-centric KV-cache manager 
+  │ 
+  ├── retriever/ # Code-based graph retrieval engine 
+  │ 
+  ├── coordinator.rs # GLM reasoning loop and agent orchestration 
+  │ 
   └── lib.rs # Library entry point 
   ├── LICENSE # MIT License 
   └── README.md # Project overview and setup instructions
