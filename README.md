@@ -66,11 +66,11 @@ git clone https://github.com/NurcholishAdam/Quantum-Limit-Graph-level4-GLM-Archi
 cd Quantum-Limit-Graph-level4-GLM-Architecture
 cargo build --release
 cargo run
-'''
+```
 
 
 ### Example Use
-'''python
+```python
 let question = "What is the most cited Indonesian NLP paper from 2021?";
 let answer = glm_reasoning(question);
 println!("Answer: {}", answer);
@@ -78,18 +78,14 @@ println!("Answer: {}", answer);
 '''
 
 
-
 🤝 Contributing
 We welcome contributors! Please see CONTRIBUTING.md (coming soon) for onboarding instructions, coding style, and benchmarking guidelines.
-
 
 📜 License
 This project is licensed under the MIT License.
 
-
 🌐 Related Projects
 Quantum LIMIT-GRAPH v2.4.0-NSN
-
 
 ✨ Acknowledgments
 This project is part of a broader mission to democratize agentic retrieval, multilingual benchmarking, and quantum-aligned AI research—led by @NurcholishAdam.
