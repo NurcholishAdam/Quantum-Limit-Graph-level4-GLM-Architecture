@@ -1,4 +1,4 @@
-# Quantum LIMIT-GRAPH Level 4 — GLM Architecture (Rust)
+# Quantum LIMIT-GRAPH Level 4 — GLM Architecture 
 
 > 🧠 A modular, high-performance, multi-agent system for quantum-aligned graph reasoning and multilingual benchmarking.
 
